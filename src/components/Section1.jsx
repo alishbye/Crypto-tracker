@@ -1,5 +1,5 @@
 import React from "react";
-import LottieLogo from "./LottieLogo";
+import LottieLogo from "./Lottielogo";  
 
 
 function Section1({ onTrendingClick, onSearchClick, onConvertClick }) {
